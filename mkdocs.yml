@@ -1,0 +1,6 @@
+site_name: people
+docs_dir: docs
+repo_url: https://github.com/arboleda-alejandro/people
+edit_uri: blob/main/docs
+plugins:
+  - techdocs-core
