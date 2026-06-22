@@ -5,8 +5,10 @@ metadata:
   annotations:
     github.com/project-slug: arboleda-alejandro/people
     backstage.io/techdocs-ref: dir:.
+  description: CNCF community data management - stores people listings (ambassadors, governing board, staff, TOC) and repository access control via config.yaml and people.json
 spec:
-  type: other
+  type: service
   lifecycle: experimental
   owner: user:default/arboleda-alejandro
+  system: developer-hub
 
